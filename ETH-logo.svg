@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   viewBox="0 0 158.75 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="ETH-logo.svg">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter918">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood908" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite910" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur912" />
+      <feOffset
+         dx="2"
+         dy="2"
+         result="offset"
+         id="feOffset914" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite916" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="33.634293"
+     inkscape:cy="506.00319"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.24999)">
+    <g
+       id="g236"
+       style="filter:url(#filter918)">
+      <polygon
+         transform="matrix(0.67330324,0,0,0.67330324,2.0922442,141.09869)"
+         id="polygon101"
+         points="112.553,157 112.553,86.977 44.158,116.937 "
+         style="fill:#6c84b4;fill-opacity:1" />
+      <polygon
+         transform="matrix(0.67330324,0,0,0.67330324,2.0922442,141.09869)"
+         id="polygon103"
+         points="112.553,82.163 112.553,-0.056 46.362,111.156 "
+         style="fill:#3c5a9a;fill-opacity:1" />
+      <polygon
+         transform="matrix(0.67330324,0,0,0.67330324,2.0922442,141.09869)"
+         id="polygon105"
+         points="116.962,-0.09 116.962,82.163 184.083,111.566 "
+         style="fill:#6c84b4;fill-opacity:1" />
+      <polygon
+         transform="matrix(0.67330324,0,0,0.67330324,2.0922442,141.09869)"
+         id="polygon107"
+         points="116.962,86.977 116.962,157.002 185.405,116.957 "
+         style="fill:#3c5a9a;fill-opacity:1" />
+      <polygon
+         transform="matrix(0.67330324,0,0,0.67330324,2.0922442,141.09869)"
+         id="polygon109"
+         points="112.553,227.406 112.553,171.085 44.618,131.31 "
+         style="fill:#3c5a9a;fill-opacity:1" />
+      <polygon
+         transform="matrix(0.67330324,0,0,0.67330324,2.0922442,141.09869)"
+         id="polygon111"
+         points="116.962,227.406 184.897,131.31 116.962,171.085 "
+         style="fill:#6c84b4;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
