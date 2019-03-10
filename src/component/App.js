@@ -27,11 +27,6 @@ class App extends Component {
     // var mn = bip39.generateMnemonic();
     // console.log(mn);
 
-    //-------------------------
-    // create acount
-    // var obj  = web3.eth.accounts.create('1');
-    // console.log(obj);
-    //-------------------------
 
   //   var EthereuSession = web3.eth.contract(
   //     [

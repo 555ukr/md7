@@ -44,13 +44,25 @@
 }
 .popup_inner {
   position: absolute;
-  left: 25%;
-  right: 25%;
+  left: 20%;
+  right: 20%;
   top: 25%;
-  bottom: 25%;
+  bottom: 35%;
   margin: auto;
   background: white;
   border-radius: 5px;
   text-align: center;
   padding: 10px;
+}
+
+.top{
+  padding-top: 50px
+}
+
+.topB{
+  padding-top: 150px
+}
+
+.select-dropdown{
+  width: 420px !important;
 }

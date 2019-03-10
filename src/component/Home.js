@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Index from './Index.js';
 import Wallet from './Wallet.js';
+import Multisig from './Multisig.js'
 
 class Home extends Component {
   render() {
@@ -12,6 +13,10 @@ class Home extends Component {
         </Route>
         <Route path='/wallet_new' >
           <Wallet />
+        </Route>
+        multisig
+        <Route path='/multisig' >
+          <Multisig />
         </Route>
       </Switch>
     );
